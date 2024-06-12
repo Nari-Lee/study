@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1af7feaa-20f3-4bbc-90ee-8c5d0aecfe7e" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/backjoon/Bj25304.java" afterDir="false" />
+    <list default="true" id="1af7feaa-20f3-4bbc-90ee-8c5d0aecfe7e" name="변경" comment="문제풀이">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/Bj8393.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/Bj8393.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Nari-Lee"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nari-Lee&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Nari-Lee/study.git",
-    "accountId": "c43cd72a-4b60-48a2-b4e0-0b699ad0d974"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Nari-Lee/study.git&quot;,
+    &quot;accountId&quot;: &quot;c43cd72a-4b60-48a2-b4e0-0b699ad0d974&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2hbRqbUow9VdVTAptotwTP6kUh4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,16 +47,24 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/narilee/git/study-study/study/src/Main.java",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "애플리케이션.Bj1000.executor": "Run",
+    "애플리케이션.Bj10951.executor": "Run",
+    "애플리케이션.Bj10952.executor": "Run",
+    "애플리케이션.Bj11021.executor": "Run",
+    "애플리케이션.Bj11022.executor": "Run",
+    "애플리케이션.Bj11022_StringBuilder.executor": "Run",
     "애플리케이션.Bj15552.executor": "Run",
+    "애플리케이션.Bj2438.executor": "Run",
     "애플리케이션.Bj25304.executor": "Run",
     "애플리케이션.Bj25314.executor": "Run",
     "애플리케이션.Bj25314_Buffered.executor": "Run",
-    "애플리케이션.Bj8393.executor": "Run"
+    "애플리케이션.Bj8393.executor": "Run",
+    "애플리케이션.bj2439.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -65,9 +72,9 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Bj25314_Buffered">
-    <configuration name="Bj15552" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjoon.Bj15552" />
+  <component name="RunManager" selected="애플리케이션.Bj10951">
+    <configuration name="Bj10951" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjoon.Bj10951" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj25304" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjoon.Bj25304" />
+    <configuration name="Bj10952" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjoon.Bj10952" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj25314" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjoon.Bj25314" />
+    <configuration name="Bj11022_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjoon.Bj11022_StringBuilder" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj25314_Buffered" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjoon.Bj25314_Buffered" />
+    <configuration name="Bj2438" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjoon.Bj2438" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj8393" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjoon.Bj8393" />
+    <configuration name="Bj2439" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjoon.Bj2439" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Bj25314_Buffered" />
-        <item itemvalue="애플리케이션.Bj15552" />
-        <item itemvalue="애플리케이션.Bj8393" />
-        <item itemvalue="애플리케이션.Bj25314" />
-        <item itemvalue="애플리케이션.Bj25304" />
+        <item itemvalue="애플리케이션.Bj10951" />
+        <item itemvalue="애플리케이션.Bj10952" />
+        <item itemvalue="애플리케이션.Bj2439" />
+        <item itemvalue="애플리케이션.Bj2438" />
+        <item itemvalue="애플리케이션.Bj11022_StringBuilder" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +157,19 @@
       <option name="presentableId" value="Default" />
       <updated>1717860981975</updated>
     </task>
+    <task id="LOCAL-00001" summary="문제풀이">
+      <option name="closed" value="true" />
+      <created>1718065417044</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718065417044</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="문제풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="문제풀이" />
   </component>
 </project>
