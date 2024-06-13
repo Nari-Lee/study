@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1af7feaa-20f3-4bbc-90ee-8c5d0aecfe7e" name="변경" comment="문제풀이">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +52,7 @@
     "onboarding.tips.debug.path": "/Users/narilee/git/study-study/study/src/Main.java",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "애플리케이션.Bj1000.executor": "Run",
+    "애플리케이션.Bj10807.executor": "Run",
     "애플리케이션.Bj10951.executor": "Run",
     "애플리케이션.Bj10952.executor": "Run",
     "애플리케이션.Bj11021.executor": "Run",
@@ -72,7 +72,20 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Bj10951">
+  <component name="RunManager" selected="애플리케이션.Bj10807">
+    <configuration name="Bj10807" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjoon.Bj10807" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="backjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Bj10951" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="backjoon.Bj10951" />
       <module name="study" />
@@ -88,19 +101,6 @@
     </configuration>
     <configuration name="Bj10952" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="backjoon.Bj10952" />
-      <module name="study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="backjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Bj11022_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjoon.Bj11022_StringBuilder" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Bj10807" />
         <item itemvalue="애플리케이션.Bj10951" />
         <item itemvalue="애플리케이션.Bj10952" />
         <item itemvalue="애플리케이션.Bj2439" />
         <item itemvalue="애플리케이션.Bj2438" />
-        <item itemvalue="애플리케이션.Bj11022_StringBuilder" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718065417044</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="문제풀이">
+      <option name="closed" value="true" />
+      <created>1718194418771</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718194418771</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
