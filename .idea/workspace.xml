@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="1af7feaa-20f3-4bbc-90ee-8c5d0aecfe7e" name="변경" comment="문제풀이">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/Bj2577.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/Bj2577.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testcode/base/CalendarPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projectTest/CalendarPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testcode/base/ColorfulCalendar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testcode/base/SimpleCalendarWithTodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projectTest/SimpleCalendarWithTodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testcode/base/ch16/sec02/exam02/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testcode/base/ch16/sec02/exam02/Button.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +20,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+    <option name="myAllFileTypesSelected" value="false" />
+    <option name="mySelectedFileTypes">
+      <set>
+        <option value="JAVA" />
+      </set>
     </option>
   </component>
   <component name="Git.Settings">
@@ -34,11 +49,25 @@
     &quot;accountId&quot;: &quot;c43cd72a-4b60-48a2-b4e0-0b699ad0d974&quot;
   }
 }</component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+    <option name="myAllFileTypesSelected" value="false" />
+    <option name="mySelectedFileTypes">
+      <set>
+        <option value="JAVA" />
+      </set>
+    </option>
+  </component>
+  <component name="PerforceDirect.Settings">
+    <option name="CHARSET" value="없음" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2hbRqbUow9VdVTAptotwTP6kUh4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,36 +78,93 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/narilee/git/study-study/study/src/testcode/patterns/ex01/step3",
     "onboarding.tips.debug.path": "/Users/narilee/git/study-study/study/src/Main.java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "actions.on.save",
+    "애플리케이션.AExample.executor": "Run",
+    "애플리케이션.AddBook.executor": "Run",
+    "애플리케이션.Addbook.executor": "Run",
+    "애플리케이션.AsciiBarChart.executor": "Run",
+    "애플리케이션.AsciiHistogram.executor": "Run",
+    "애플리케이션.AsciiPieChart.executor": "Run",
     "애플리케이션.Bj1000.executor": "Run",
     "애플리케이션.Bj10807.executor": "Run",
+    "애플리케이션.Bj10818.executor": "Run",
+    "애플리케이션.Bj10871.executor": "Run",
     "애플리케이션.Bj10951.executor": "Run",
     "애플리케이션.Bj10952.executor": "Run",
     "애플리케이션.Bj11021.executor": "Run",
     "애플리케이션.Bj11022.executor": "Run",
     "애플리케이션.Bj11022_StringBuilder.executor": "Run",
+    "애플리케이션.Bj1152.executor": "Run",
     "애플리케이션.Bj15552.executor": "Run",
     "애플리케이션.Bj2438.executor": "Run",
+    "애플리케이션.Bj2475.executor": "Run",
     "애플리케이션.Bj25304.executor": "Run",
     "애플리케이션.Bj25314.executor": "Run",
     "애플리케이션.Bj25314_Buffered.executor": "Run",
+    "애플리케이션.Bj2562.executor": "Run",
+    "애플리케이션.Bj2577.executor": "Run",
     "애플리케이션.Bj8393.executor": "Run",
-    "애플리케이션.bj2439.executor": "Run"
+    "애플리케이션.BorrowBook.executor": "Run",
+    "애플리케이션.ButtonExample.executor": "Run",
+    "애플리케이션.CalendarPrinter.executor": "Run",
+    "애플리케이션.CalendarToDo.executor": "Run",
+    "애플리케이션.Car.executor": "Run",
+    "애플리케이션.CarExample.executor": "Run",
+    "애플리케이션.CastingExample.executor": "Run",
+    "애플리케이션.ColorfulCalendar.executor": "Run",
+    "애플리케이션.DateHighlightExample.executor": "Run",
+    "애플리케이션.DayCalculator.executor": "Run",
+    "애플리케이션.DdayCalculator.executor": "Run",
+    "애플리케이션.Exam0110.executor": "Run",
+    "애플리케이션.Exam0130.executor": "Run",
+    "애플리케이션.Exam0140.executor": "Run",
+    "애플리케이션.Exam0150.executor": "Run",
+    "애플리케이션.Exam0160.executor": "Run",
+    "애플리케이션.Exam0310.executor": "Run",
+    "애플리케이션.Exam0330.executor": "Run",
+    "애플리케이션.Exam0410.executor": "Run",
+    "애플리케이션.Exam0411.executor": "Run",
+    "애플리케이션.Exam0412.executor": "Run",
+    "애플리케이션.Exam0413.executor": "Run",
+    "애플리케이션.Exam0510$MyCalculator.executor": "Run",
+    "애플리케이션.LambdaExample.executor": "Run",
+    "애플리케이션.PhoneExample.executor": "Run",
+    "애플리케이션.SimpleCalendarWithTodo.executor": "Run",
+    "애플리케이션.SmartPhoneExample.executor": "Run",
+    "애플리케이션.Test01.executor": "Run",
+    "애플리케이션.Test02.executor": "Run",
+    "애플리케이션.TodoListTitle.executor": "Run",
+    "애플리케이션.bj2439.executor": "Run",
+    "애플리케이션.ex02.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/testcode/patterns/ex01/step3" />
+      <recent name="$PROJECT_DIR$/src/testcode/patterns/ex01/steo2" />
+      <recent name="$PROJECT_DIR$/src/testcode/patterns/ex01" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="testcode.oop" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="testcode.lambda" />
+      <recent name="testcode.patterns.ex01" />
+    </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Bj10807">
-    <configuration name="Bj10807" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjoon.Bj10807" />
+  <component name="RunManager" selected="애플리케이션.Exam0510$MyCalculator">
+    <configuration name="Exam0411" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testcode.lambda.Exam0411" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backjoon.*" />
+          <option name="PATTERN" value="testcode.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj10951" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjoon.Bj10951" />
+    <configuration name="Exam0412" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testcode.lambda.Exam0412" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backjoon.*" />
+          <option name="PATTERN" value="testcode.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj10952" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjoon.Bj10952" />
+    <configuration name="Exam0413" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testcode.lambda.Exam0413" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backjoon.*" />
+          <option name="PATTERN" value="testcode.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj2438" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjoon.Bj2438" />
+    <configuration name="Exam0510$MyCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testcode.lambda.Exam0510$MyCalculator" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backjoon.*" />
+          <option name="PATTERN" value="testcode.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +211,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj2439" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjoon.Bj2439" />
+    <configuration name="LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testcode.base.ch16.sec01.LambdaExample" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backjoon.*" />
+          <option name="PATTERN" value="testcode.base.ch16.sec01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Bj10807" />
-        <item itemvalue="애플리케이션.Bj10951" />
-        <item itemvalue="애플리케이션.Bj10952" />
-        <item itemvalue="애플리케이션.Bj2439" />
-        <item itemvalue="애플리케이션.Bj2438" />
+        <item itemvalue="애플리케이션.Exam0510$MyCalculator" />
+        <item itemvalue="애플리케이션.LambdaExample" />
+        <item itemvalue="애플리케이션.Exam0413" />
+        <item itemvalue="애플리케이션.Exam0412" />
+        <item itemvalue="애플리케이션.Exam0411" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +259,55 @@
       <option name="project" value="LOCAL" />
       <updated>1718194418771</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="문제풀이">
+      <option name="closed" value="true" />
+      <created>1718264643608</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718264643608</updated>
+    </task>
+    <task id="LOCAL-00004" summary="문제풀이">
+      <option name="closed" value="true" />
+      <created>1718351911929</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718351911929</updated>
+    </task>
+    <task id="LOCAL-00005" summary="문제풀이">
+      <option name="closed" value="true" />
+      <created>1718503675977</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718503675977</updated>
+    </task>
+    <task id="LOCAL-00006" summary="문제풀이">
+      <option name="closed" value="true" />
+      <created>1718600475445</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718600475445</updated>
+    </task>
+    <task id="LOCAL-00007" summary="문제풀이">
+      <option name="closed" value="true" />
+      <created>1718671888621</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718671888622</updated>
+    </task>
+    <task id="LOCAL-00008" summary="문제풀이">
+      <option name="closed" value="true" />
+      <created>1719886927940</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719886927940</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
